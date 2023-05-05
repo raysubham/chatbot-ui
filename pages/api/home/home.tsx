@@ -361,7 +361,7 @@ const Home = ({
     >
       <Head>
         <title>Chat AI</title>
-        <meta name="description" content="ChatGPT but better." />
+        <meta name="description" content="ChatGPT but way better." />
         <meta
           name="viewport"
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
